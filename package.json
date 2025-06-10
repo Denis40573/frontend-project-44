@@ -1,0 +1,19 @@
+{
+  "name": "@hexlet/code",
+  "version": "1.0.0",
+  "description": "It is Denis`s brain-games",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Denis40573/frontend-project-44.git"
+  },
+  "author": "Denis Pryahin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Denis40573/frontend-project-44/issues"
+  },
+  "homepage": "https://github.com/Denis40573/frontend-project-44#readme"
+}
