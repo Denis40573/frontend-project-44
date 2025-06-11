@@ -10,7 +10,11 @@
     "type": "git",
     "url": "git+https://github.com/Denis40573/frontend-project-44.git"
   },
+  "bin": {
+  "brain-games": "bin/brain-games.js"
+  },
   "author": "Denis Pryahin",
+  "type": "module",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Denis40573/frontend-project-44/issues"
