@@ -11,7 +11,7 @@
     "url": "git+https://github.com/Denis40573/frontend-project-44.git"
   },
   "bin": {
-  "brain-games": "bin/brain-games.js"
+    "brain-games": "bin/brain-games.js"
   },
   "author": "Denis Pryahin",
   "type": "module",
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/Denis40573/frontend-project-44/issues"
   },
-  "homepage": "https://github.com/Denis40573/frontend-project-44#readme"
+  "homepage": "https://github.com/Denis40573/frontend-project-44#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
