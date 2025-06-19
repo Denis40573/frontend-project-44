@@ -24,8 +24,7 @@ const brainEven = () => {
         const expectedResponse = correctAnswer(isEven(number));
 
         if (expectedResponse !== validUserAnswer) {
-            return console.log(`'${validUserAnswer}' is wrong answer ;(. Correct answer was '${expectedResponse}'.
-Let's try again, ${userName}!`);
+            return console.log(`'${validUserAnswer}' is wrong answer ;(. Correct answer was '${expectedResponse}'.\nsLet's try again, ${userName}!`);
         } else {
             console.log('Correct!');
         }
