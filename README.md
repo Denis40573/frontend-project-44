@@ -12,3 +12,4 @@
 [![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=Denis40573_frontend-project-44&metric=sqale_index)](https://sonarcloud.io/summary/new_code?id=Denis40573_frontend-project-44)
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=Denis40573_frontend-project-44&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=Denis40573_frontend-project-44)
 [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=Denis40573_frontend-project-44&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=Denis40573_frontend-project-44)
+[![asciicast](https://asciinema.org/a/v5izMUs1eTUlZuOxLAEnIsIqp.svg)](https://asciinema.org/a/v5izMUs1eTUlZuOxLAEnIsIqp)
