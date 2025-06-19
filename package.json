@@ -11,7 +11,8 @@
     "url": "git+https://github.com/Denis40573/frontend-project-44.git"
   },
   "bin": {
-    "brain-games": "bin/brain-games.js"
+    "brain-games": "bin/brain-games.js",
+    "brain-even": "bin/brain-even.js"
   },
   "author": "Denis Pryahin",
   "type": "module",
@@ -22,5 +23,13 @@
   "homepage": "https://github.com/Denis40573/frontend-project-44#readme",
   "dependencies": {
     "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.29.0",
+    "@stylistic/eslint-plugin": "^4.4.1",
+    "eslint": "^9.29.0",
+    "eslint-plugin-react": "^7.37.5",
+    "globals": "^16.2.0",
+    "typescript-eslint": "^8.34.0"
   }
 }
