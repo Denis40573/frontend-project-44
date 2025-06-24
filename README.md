@@ -14,3 +14,4 @@
 [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=Denis40573_frontend-project-44&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=Denis40573_frontend-project-44)
 [![asciicast](https://asciinema.org/a/v5izMUs1eTUlZuOxLAEnIsIqp.svg)](https://asciinema.org/a/v5izMUs1eTUlZuOxLAEnIsIqp)
 [![asciicast](https://asciinema.org/a/aPVuOkfwlb8ibcSTZ6ScpZnbW.svg)](https://asciinema.org/a/aPVuOkfwlb8ibcSTZ6ScpZnbW)
+[![asciicast](https://asciinema.org/a/i55IRxkHfhb7z1jEcia0w70Nq.svg)](https://asciinema.org/a/i55IRxkHfhb7z1jEcia0w70Nq)
