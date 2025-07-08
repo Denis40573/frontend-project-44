@@ -20,4 +20,4 @@ export const successfulCompletionGame = (userName) => console.log(`Congratulatio
 
 export const correctAnswer = () => console.log('Correct!');
  
-export const wrongAnswer = (userAnswer, correctAnswer, userName) => console.log(`"${userAnswer}" is wrong answer ;(. Correct answer was "${correctAnswer}".\nLet's try again, ${userName}`);
+export const wrongAnswer = (userAnswer, correctAnswer, userName) => console.log(`"${userAnswer}" is wrong answer ;(. Correct answer was "${correctAnswer}".\nLet's try again, ${userName}!`);
