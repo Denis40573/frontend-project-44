@@ -1,4 +1,4 @@
 #!/usr/bin/env node
-import { isPrime } from '../src/prime.js';
+import { isPrime } from '../src/prime.js'
 
-isPrime();
+isPrime()

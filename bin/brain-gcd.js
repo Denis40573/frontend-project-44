@@ -1,4 +1,4 @@
 #!/usr/bin/env node
-import { getBiggestDivisior } from '../src/gcd.js';
+import { getBiggestDivisior } from '../src/gcd.js'
 
-getBiggestDivisior();
+getBiggestDivisior()
