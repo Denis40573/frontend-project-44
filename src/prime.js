@@ -11,13 +11,13 @@ const isPrimeNumber = (number) => {
   if (number === 2 || number === 3) {
     expectedAnswer = 'yes'
   }
- else if (isGreaterThenThree && !isEven) {
+  else if (isGreaterThenThree && !isEven) {
     for (let i = 3; i <= sqrtOfNumber; i += 1) {
       if (number % i === 0) {
         expectedAnswer = 'no'
         break
       }
- else {
+      else {
         expectedAnswer = 'yes'
       }
     }
@@ -42,7 +42,7 @@ export const isPrime = () => {
       correctAnswer()
       i += 1
     }
- else {
+    else {
       wrongAnswer(userAnswer, expectedAnswer, userName)
       break
     }
