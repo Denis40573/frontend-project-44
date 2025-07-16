@@ -32,7 +32,7 @@ export const calculationGame = () => {
       correctAnswer()
       i += 1
     }
- else {
+    else {
       wrongAnswer(userAnswer, expectedAnswer, userName)
       break
     }
